@@ -1,4 +1,4 @@
-# WapChat QQ - 独立验证与审核站 (VERIFY)
+# WapChat Verify (独立验证与审核站)
 
 这是一个基于 Cloudflare Workers + KV 数据库构建的独立验证与审核后台，作为 [WapChat QQ](https://github.com/amahteru/wapchat-qq) (主站) 的配套设施使用。
 
